@@ -2,3 +2,4 @@
 .env
 chroma
 tax*.docx
+llm-streamlit/.streamlit
